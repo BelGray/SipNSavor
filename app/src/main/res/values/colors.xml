@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="citrus_mix_glass">#fc9003</color>
+    <color name="citrus_mix_fruit">#52eb00</color>
+    <color name="citrus_mix_straw">#ebe307</color>
+
+    <color name="blackberry_glass">#7d07eb</color>
+    <color name="blackberry_fruit">#059df5</color>
+    <color name="blackberry_straw">#bd05f5</color>
+
+    <color name="cold_coffee_glass">#b8b782</color>
+    <color name="cold_coffee_fruit">#302828</color>
+    <color name="cold_coffee_straw">#e8e268</color>
+
+    <color name="lemonade_glass">#a6ff00</color>
+    <color name="lemonade_fruit">#fff700</color>
+    <color name="lemonade_straw">#00ff84</color>
+
+    <color name="wild_berries_mix_glass">#ff005d</color>
+    <color name="wild_berries_mix_fruit">#d900ff</color>
+    <color name="wild_berries_mix_straw">#f029e9</color>
+
 </resources>
